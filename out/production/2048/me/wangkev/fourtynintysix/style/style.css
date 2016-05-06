@@ -1,0 +1,81 @@
+
+#game_grid {
+    -fx-background-color:#bbada0;
+    -fx-padding:8px;
+    -fx-opacity:0.8;
+
+
+}
+
+.game_tile {
+    -fx-background-radius:9px;
+    -fx-border-color:#bbada0;
+    -fx-text-alignment: center;
+    -fx-font-weight:bold;
+    -fx-font-size:26px;
+}
+
+.game_tile_0{
+    -fx-background-color:rgba(238, 228, 218, 0.35);
+    -fx-color:white;
+
+}
+
+.game_tile_2{
+     -fx-background-color:#eee4da;
+}
+
+.game_tile_4{
+     -fx-background-color:#ede0c8;
+}
+
+.game_tile_8{
+     -fx-background-color:#f2b179;
+}
+
+.game_tile_16{
+     -fx-background-color:#f59563;
+}
+
+.game_tile_32{
+     -fx-background-color:#f67c5f;
+}
+
+.game_tile_64{
+     -fx-background-color:#f65e3b;
+}
+
+.game_tile_128{
+    -fx-background-color:#edcf72;
+
+}
+
+.game_tile_256{
+    -fx-background-color:#EFCF72;
+
+}
+
+.game_tile_512{
+    -fx-background-color:#C9551B;
+
+}
+
+.game_tile_1024{
+    -fx-background-color:#F5551B;
+
+}
+
+.game_tile_2048{
+    -fx-background-color:#38352D;
+
+}
+
+.game_tile_4096{
+    -fx-background-color:#38352D;
+
+}
+
+.game_tile_8192{
+    -fx-background-color:#290F74;
+
+}

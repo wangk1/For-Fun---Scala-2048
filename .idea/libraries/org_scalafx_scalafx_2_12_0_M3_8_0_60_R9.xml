@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.scalafx:scalafx_2.12.0-M3:8.0.60-R9" type="repository">
+    <properties maven-id="org.scalafx:scalafx_2.12.0-M3:8.0.60-R9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalafx/scalafx_2.12.0-M3/8.0.60-R9/scalafx_2.12.0-M3-8.0.60-R9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.0-M3/scala-library-2.12.0-M3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.12.0-M3/scala-reflect-2.12.0-M3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest_2.12.0-M2/2.2.5-M2/scalatest_2.12.0-M2-2.2.5-M2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-xml_2.12.0-M2/1.0.5/scala-xml_2.12.0-M2-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
